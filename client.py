@@ -38,6 +38,10 @@ receiveThread.start()
 pf_old=" "
 allprot_old = ""
 allprot = ""
+#alowed writers only
+awriters = ['Task Scheduler Writer','MSSearch Service Writer','VSS Metadata Store Writer','Performance Counters Writer','ASR Writer','BITS Writer','COM+ REGDB Writer','DFS Replication Service Writer','IIS Config Writer','IIS Metabase Writer','NTDS Writer','Registry Writer','Shadow Copy Optimization Writer','System Writer','WMI Writer','Microsoft Exchange Writer','Microsoft Hyper-V VSS Writer','SQL Server VSS Writer','Sharepoint VSS Writer','SPSearch VSS Writer','OSearch VSS Writer','SPSearch4 VSS Writer','OSearch14 VSS Writer','OSearch15 VSS Writer','MailStore VSS Writer' ]
+outputvss_old=''
+outputav_old=''
 x=0
 etatmyl_old=["True","True","True","True","True"]
 etatmy2_old=["False","False","False","False","False","False","False","False","False","False","False","False","False","False","False","False","False","False","False","False","False","False","False","False","False"]
@@ -53,6 +57,48 @@ etatmyl1_old=["1"]
 etatmyl01_old=["1","1"]
 while True:
     toaster = ToastNotifier()
+
+    p = subprocess.Popen(["powershell.exe", 
+                "vssadmin list writers"], 
+                stdout=subprocess.PIPE)
+    outputvss = str(p.stdout.read())
+    if outputvss != outputvss_old:
+        mylist = outputvss.split('\\r\\n\\r\\nNom du r\\x82dacteur : ')
+        del mylist[0]
+        for w in range(0,len(mylist)):
+            mylist[w]=mylist[w].split('ID du')[0].replace('\'','').replace('\\n','').replace('\\r','').replace('   ','')
+            if mylist[w] not in awriters:
+                print(mylist[w],'a')
+                toaster.show_toast("Attention  ",mylist[w])
+                break
+    outputvss_old=outputvss
+
+    p = subprocess.Popen(["powershell.exe", 
+                "Get-CimInstance -Namespace root/SecurityCenter2 -ClassName AntivirusProduct"], 
+                stdout=subprocess.PIPE)
+    outputav = str(p.stdout.read())
+    if outputav != outputav_old:
+        av_list = outputav.split('productState             : ')
+        avs = outputav.split('Name              : ')
+        del avs[0]
+        x=0
+        for w in range(0,len(av_list)):
+            if (w%2) != 0:
+                av_list[x]=av_list[w].split('timestamp')[0].replace('\'','').replace('\\n','').replace('\\r','').replace(' ','')
+                x=x+1
+        for w in range(x,len(av_list)):
+            del av_list[w]
+        for w in range(0,len(av_list)):
+            av_list[w]=hex(int(av_list[w])).replace('0x','')   
+            for w in range(0,len(av_list)):
+                if av_list[w][1]!='1' or av_list[w][3:5]!='00':
+                    print (av_list[w][1],av_list[w][3:5])
+                    print('Vérifier votre : ',avs[w].split(':')[0])
+                    toaster.show_toast("Attention vérifier votre  ",avs[w].split(':')[0].replace('\\r\\ninstanceGuid',''))
+                else:
+                    print (avs[w].split(':')[0].replace('\\r\\ninstanceGuid','').replace('             ',''),'mriguel')
+        outputav_old=outputav
+
     p = subprocess.Popen(["powershell.exe", 
                 "get-MpPreference"], 
                 stdout=subprocess.PIPE)
