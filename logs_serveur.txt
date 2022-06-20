@@ -1,0 +1,1509 @@
+
+New connection at ID 0 ('127.0.0.1', 64446)
+New connection at ID 1 ('127.0.0.1', 64506)
+ID 1: ControlledFolderAccessProtectedF
+ID 1: olders        : {C:\\Users\\dhia
+ID 1: \\Desktop\\1
+ID 1: ControlledFolderAccessProtectedF
+ID 1: olders        : {C:\\Users\\dhia
+ID 1: \\Desktop\\1
+ID 1: ControlledFolderAccessProtectedF
+ID 1: olders        : {C:\\Users\\dhia
+ID 1: \\Desktop\\1
+ID 1:  C:\\Users\\dhia\\Desktop\\2
+ID 1: ControlledFolderAccessProtectedF
+ID 1: olders        : {C:\\Users\\dhia
+ID 1: \\Desktop\\1
+New connection at ID 0 ('127.0.0.1', 58862)
+New connection at ID 1 ('127.0.0.1', 58870)
+ID 1: ControlledFolderAccessProtectedF
+ID 1: olders        : 
+ID 1: DisableCpuThrottleOnIdleScans   
+ID 1:               : True
+ID 1: DisableCpuThrottleOnIdleScans   
+ID 1:               : False
+ID 1: DisableCpuThrottleOnIdleScans   
+ID 1:               : True
+New connection at ID 0 ('127.0.0.1', 58894)
+ID 0: ControlledFolderAccessProtectedF
+ID 0: olders        : 
+ID 0: DisableCpuThrottleOnIdleScans   
+ID 0:               : True
+ID 0: DisableCpuThrottleOnIdleScans   
+ID 0:               : False
+ID 0: DisableCpuThrottleOnIdleScans   
+ID 0:               : True
+New connection at ID 0 ('127.0.0.1', 58914)
+ID 0: ControlledFolderAccessProtectedF
+ID 0: olders        : 
+ID 0: DisableCpuThrottleOnIdleScans   
+ID 0:               : True
+ID 0: DisableCpuThrottleOnIdleScans   
+ID 0:               : True
+ID 0: DisableCpuThrottleOnIdleScans   
+ID 0:               : True
+New connection at ID 0 ('127.0.0.1', 58939)
+ID 0: ControlledFolderAccessProtectedF
+ID 0: olders        : 
+ID 0: DisableCpuThrottleOnIdleScans   
+ID 0:               : True
+ID 0: DisableCpuThrottleOnIdleScans   
+ID 0:               : True
+ID 0: DisableCpuThrottleOnIdleScans   
+ID 0:               : True
+ID 0: DisableCpuThrottleOnIdleScans   
+ID 0:               : True
+ID 0: DisableCpuThrottleOnIdleScans   
+ID 0:               : True
+ID 0: DisableCpuThrottleOnIdleScans   
+ID 0:               : True
+ID 0: DisableCpuThrottleOnIdleScans   
+ID 0:               : True
+ID 0: DisableCpuThrottleOnIdleScans   
+ID 0:               : False
+ID 0: DisableCpuThrottleOnIdleScans   
+ID 0:               : False
+ID 0: DisableCpuThrottleOnIdleScans   
+ID 0:               : False
+ID 0: DisableCpuThrottleOnIdleScans   
+ID 0:               : True
+New connection at ID 0 ('127.0.0.1', 59016)
+ID 0: ControlledFolderAccessProtectedF
+ID 0: olders        : 
+ID 0: DisableCpuThrottleOnIdleScans   
+ID 0:               : True
+ID 0: DisableCpuThrottleOnIdleScans   
+ID 0:               : False
+ID 0: DisableCpuThrottleOnIdleScans   
+ID 0:               : True
+New connection at ID 0 ('127.0.0.1', 59038)
+ID 0: ControlledFolderAccessProtectedF
+ID 0: olders        : 
+New connection at ID 0 ('127.0.0.1', 53293)
+ID 0: ControlledFolderAccessProtectedF
+ID 0: olders        : 
+New connection at ID 0 ('127.0.0.1', 53515)
+ID 0: ControlledFolderAccessProtectedF
+ID 0: olders        : 
+New connection at ID 0 ('127.0.0.1', 53583)
+ID 0: ControlledFolderAccessProtectedF
+ID 0: olders        : 
+ID 0: DisableCpuThrottleOnIdleScans   
+ID 0:               : True
+ID 0: DisableCpuThrottleOnIdleScans   
+ID 0:               : False
+ID 0: DisableCpuThrottleOnIdleScans   
+ID 0:               : True
+New connection at ID 0 ('127.0.0.1', 56218)
+ID 0: ControlledFolderAccessProtectedF
+ID 0: olders        : 
+New connection at ID 0 ('127.0.0.1', 56234)
+ID 0: ControlledFolderAccessProtectedF
+ID 0: olders        : 
+New connection at ID 0 ('127.0.0.1', 56263)
+ID 0: ControlledFolderAccessProtectedF
+ID 0: olders        : 
+New connection at ID 0 ('127.0.0.1', 56285)
+ID 0: ControlledFolderAccessProtectedF
+ID 0: olders        : 
+New connection at ID 0 ('127.0.0.1', 56302)
+ID 0: ControlledFolderAccessProtectedF
+ID 0: olders        : 
+ID 0: DisableCpuThrottleOnIdleScans   
+ID 0:               : False
+ID 0: DisableCpuThrottleOnIdleScans   
+ID 0:               : False
+ID 0: DisableCpuThrottleOnIdleScans   
+ID 0:               : False
+New connection at ID 0 ('127.0.0.1', 56342)
+ID 0: ControlledFolderAccessProtectedF
+ID 0: olders        : 
+ID 0: DisableDatagramProcessing       
+ID 0:               : False
+ID 0: DisableDatagramProcessing       
+ID 0:               : False
+ID 0: DisableDatagramProcessing       
+ID 0:               : False
+ID 0: DisableDatagramProcessing       
+ID 0:               : True
+ID 0: DisableDatagramProcessing       
+ID 0:               : True
+ID 0: DisableDatagramProcessing       
+ID 0:               : False
+New connection at ID 0 ('127.0.0.1', 56382)
+ID 0: ControlledFolderAccessProtectedF
+ID 0: olders        : 
+ID 0: DisableDatagramProcessing       
+ID 0:               : False
+ID 0: DisableDnsOverTcpParsing        
+ID 0:               : True
+ID 0: DisableDnsOverTcpParsing        
+ID 0:               : True
+ID 0: DisableDnsOverTcpParsing        
+ID 0:               : True
+New connection at ID 0 ('127.0.0.1', 51203)
+New connection at ID 0 ('127.0.0.1', 50928)
+ID 0: ControlledFolderAccessProtectedF
+ID 0: olders        : 
+ID 0: DisableDatagramProcessing       
+ID 0:               : False
+ID 0: DisableDnsOverTcpParsing        
+ID 0:               : False
+ID 0: DisableDatagramProcessing       
+ID 0:               : False
+ID 0: DisableDnsOverTcpParsing        
+ID 0:               : False
+New connection at ID 0 ('127.0.0.1', 51264)
+ID 0: ControlledFolderAccessProtectedF
+ID 0: olders        : 
+ID 0: DisableCatchupFullScan          
+ID 0:               : True
+ID 0: DisableCatchupQuickScan         
+ID 0:               : True
+ID 0: DisableRemovableDriveScanning   
+ID 0:               : True
+ID 0: DisableRestorePoint             
+ID 0:               : True
+ID 0: DisableScanningMappedNetworkDriv
+ID 0: esForFullScan : True
+ID 0: AllowNetworkProtectionDownLevel 
+ID 0:               : False
+ID 0: AllowNetworkProtectionOnWinServe
+ID 0: r             : FalseDisableCpuT
+ID 0: hrottleOnIdleScans              
+ID 0:    : True
+ID 0: DisablePrivacyMode              
+ID 0:               : FalseEnableContr
+ID 0: olledFolderAccess               
+ID 0:    : 1EnableDnsSinkhole         
+ID 0:                     : True
+ID 0: EnableFileHashComputation       
+ID 0:               : FalseEnableNetwo
+ID 0: rkProtection                    
+ID 0:    : 0
+New connection at ID 0 ('127.0.0.1', 62410)
+ID 0: ControlledFolderAccessProtectedF
+ID 0: olders        : 
+ID 0: DisableCatchupFullScan          
+ID 0:               : True
+ID 0: DisableCatchupQuickScan         
+ID 0:               : True
+ID 0: DisableRemovableDriveScanning   
+ID 0:               : True
+ID 0: DisableRestorePoint             
+ID 0:               : True
+ID 0: DisableScanningMappedNetworkDriv
+ID 0: esForFullScan : True
+ID 0: ScanOnlyIfIdleEnabled           
+ID 0:               : True
+ID 0: AllowNetworkProtectionDownLevel 
+ID 0:               : False
+New connection at ID 0 ('127.0.0.1', 55561)
+ID 0: ControlledFolderAccessProtectedF
+ID 0: olders        : 
+ID 0: ControlledFolderAccessAllowedApp
+ID 0: lications     : {N/A: Must be an
+ID 0: d administrator to view exclusio
+ID 0: ns
+ID 0: AllowNetworkProtectionDownLevel 
+ID 0:               : TrueAllowNetwork
+ID 0: ProtectionOnWinServer           
+ID 0:   : True
+ID 0: DisableCpuThrottleOnIdleScans   
+ID 0:               : FalseEnableDnsSi
+ID 0: nkhole                          
+ID 0:    : True
+ID 0: EnableFileHashComputation       
+ID 0:               : False
+ID 0: DisableRealtimeMonitoring       
+ID 0:               : False
+ID 0: PUAProtection                   
+ID 0:               : 1
+ID 0: RealTimeScanDirection           
+ID 0:               : 0
+ID 0: SubmitSamplesConsent            
+ID 0:               : 1
+ID 0: DisableRealtimeMonitoring       
+ID 0:               : False
+ID 0: PUAProtection                   
+ID 0:               : 1
+ID 0: RealTimeScanDirection           
+ID 0:               : 0
+ID 0: SubmitSamplesConsent            
+ID 0:               : 1
+ID 0: DisableRealtimeMonitoring       
+ID 0:               : False
+ID 0: PUAProtection                   
+ID 0:               : 1
+ID 0: RealTimeScanDirection           
+ID 0:               : 0
+ID 0: SubmitSamplesConsent            
+ID 0:               : 1
+ID 0: DisableRealtimeMonitoring       
+ID 0:               : False
+New connection at ID 0 ('127.0.0.1', 55633)
+ID 0: ControlledFolderAccessProtectedF
+ID 0: olders        : 
+ID 0: ControlledFolderAccessAllowedApp
+ID 0: lications     : {N/A: Must be an
+ID 0: d administrator to view exclusio
+ID 0: ns
+Client ('127.0.0.1', 55633) has disconnected
+New connection at ID 1 ('127.0.0.1', 55650)
+ID 1: ControlledFolderAccessProtectedF
+ID 1: olders        : 
+ID 1: ControlledFolderAccessAllowedApp
+ID 1: lications     : {N/A: Must be an
+ID 1: d administrator to view exclusio
+ID 1: ns
+New connection at ID 2 ('127.0.0.1', 55660)
+ID 2: ControlledFolderAccessProtectedF
+ID 2: olders        : 
+ID 2: ControlledFolderAccessAllowedApp
+ID 2: lications     : {N/A: Must be an
+ID 2: d administrator to view exclusio
+ID 2: ns
+Client ('127.0.0.1', 55660) has disconnected
+New connection at ID 3 ('127.0.0.1', 55670)
+ID 3: ControlledFolderAccessProtectedF
+ID 3: olders        : 
+ID 3: ControlledFolderAccessAllowedApp
+ID 3: lications     : {N/A: Must be an
+ID 3: d administrator to view exclusio
+ID 3: ns
+Client ('127.0.0.1', 55670) has disconnected
+Client ('127.0.0.1', 55650) has disconnected
+New connection at ID 4 ('127.0.0.1', 55679)
+ID 4: ControlledFolderAccessProtectedF
+ID 4: olders        : 
+ID 4: ControlledFolderAccessAllowedApp
+ID 4: lications     : {N/A: Must be an
+ID 4: d administrator to view exclusio
+ID 4: ns
+Client ('127.0.0.1', 55679) has disconnected
+New connection at ID 5 ('127.0.0.1', 55693)
+ID 5: ControlledFolderAccessProtectedF
+ID 5: olders        : 
+ID 5: ControlledFolderAccessAllowedApp
+ID 5: lications     : {N/A: Must be an
+ID 5: d administrator to view exclusio
+ID 5: ns
+Client ('127.0.0.1', 55693) has disconnected
+New connection at ID 6 ('127.0.0.1', 55732)
+ID 6: ControlledFolderAccessProtectedF
+ID 6: olders        : 
+ID 6: ControlledFolderAccessAllowedApp
+ID 6: lications     : {N/A: Must be an
+ID 6: d administrator to view exclusio
+ID 6: ns
+Client ('127.0.0.1', 55732) has disconnected
+New connection at ID 7 ('127.0.0.1', 55745)
+ID 7: ControlledFolderAccessProtectedF
+ID 7: olders        : 
+ID 7: ControlledFolderAccessAllowedApp
+ID 7: lications     : {N/A: Must be an
+ID 7: d administrator to view exclusio
+ID 7: ns
+ID 7: AllowNetworkProtectionDownLevel 
+ID 7:               : TrueAllowNetwork
+ID 7: ProtectionOnWinServer           
+ID 7:   : True
+ID 7: DisableCpuThrottleOnIdleScans   
+ID 7:               : FalseEnableDnsSi
+ID 7: nkhole                          
+ID 7:    : True
+ID 7: EnableFileHashComputation       
+ID 7:               : False
+ID 7: AllowNetworkProtectionDownLevel 
+ID 7:               : TrueAllowNetwork
+ID 7: ProtectionOnWinServer           
+ID 7:   : True
+ID 7: DisableCpuThrottleOnIdleScans   
+ID 7:               : FalseEnableDnsSi
+ID 7: nkhole                          
+ID 7:    : True
+ID 7: EnableFileHashComputation       
+ID 7:               : False
+Client ('127.0.0.1', 55745) has disconnected
+New connection at ID 8 ('127.0.0.1', 55828)
+ID 8: ControlledFolderAccessProtectedF
+ID 8: olders        : 
+ID 8: ControlledFolderAccessAllowedApp
+ID 8: lications     : {N/A: Must be an
+ID 8: d administrator to view exclusio
+ID 8: ns
+ID 8: AllowNetworkProtectionDownLevel 
+ID 8:               : TrueAllowNetwork
+ID 8: ProtectionOnWinServer           
+ID 8:   : True
+ID 8: DisableCpuThrottleOnIdleScans   
+ID 8:               : FalseEnableDnsSi
+ID 8: nkhole                          
+ID 8:    : True
+Client ('127.0.0.1', 55828) has disconnected
+New connection at ID 9 ('127.0.0.1', 55935)
+ID 9: ControlledFolderAccessProtectedF
+ID 9: olders        : 
+ID 9: ControlledFolderAccessAllowedApp
+ID 9: lications     : {N/A: Must be an
+ID 9: d administrator to view exclusio
+ID 9: ns
+New connection at ID 10 ('127.0.0.1', 58011)
+ID 10: ControlledFolderAccessProtectedF
+ID 10: olders        : 
+ID 10: ControlledFolderAccessAllowedApp
+ID 10: lications     : {N/A: Must be an
+ID 10: d administrator to view exclusio
+ID 10: ns
+Client ('127.0.0.1', 58011) has disconnected
+Client ('127.0.0.1', 55935) has disconnected
+New connection at ID 11 ('127.0.0.1', 58072)
+ID 11: ControlledFolderAccessProtectedF
+ID 11: olders        : 
+ID 11: ControlledFolderAccessAllowedApp
+ID 11: lications     : {N/A: Must be an
+ID 11: d administrator to view exclusio
+ID 11: ns
+ID 11: AllowNetworkProtectionDownLevel 
+ID 11:               : True
+ID 11: AllowNetworkProtectionOnWinServe
+ID 11: r             : True
+Client ('127.0.0.1', 58072) has disconnected
+New connection at ID 12 ('127.0.0.1', 58091)
+ID 12: ControlledFolderAccessProtectedF
+ID 12: olders        : 
+ID 12: ControlledFolderAccessAllowedApp
+ID 12: lications     : {N/A: Must be an
+ID 12: d administrator to view exclusio
+ID 12: ns
+ID 12: AllowNetworkProtectionDownLevel 
+ID 12:               : True
+ID 12: AllowNetworkProtectionOnWinServe
+ID 12: r             : True
+ID 12: DisableCpuThrottleOnIdleScans   
+ID 12:               : False
+Client ('127.0.0.1', 58091) has disconnected
+New connection at ID 13 ('127.0.0.1', 58109)
+ID 13: ControlledFolderAccessProtectedF
+ID 13: olders        : 
+ID 13: ControlledFolderAccessAllowedApp
+ID 13: lications     : {N/A: Must be an
+ID 13: d administrator to view exclusio
+ID 13: ns
+ID 13: AllowNetworkProtectionDownLevel 
+ID 13:               : True
+ID 13: AllowNetworkProtectionOnWinServe
+ID 13: r             : True
+ID 13: DisableCpuThrottleOnIdleScans   
+ID 13:               : FalseEnableDnsSi
+ID 13: nkhole                          
+ID 13:    : True
+ID 13: EnableFileHashComputation       
+ID 13:               : False
+ID 13: AllowNetworkProtectionDownLevel 
+ID 13:               : True
+ID 13: AllowNetworkProtectionOnWinServe
+ID 13: r             : True
+ID 13: DisableCpuThrottleOnIdleScans   
+ID 13:               : FalseEnableDnsSi
+ID 13: nkhole                          
+ID 13:    : True
+Client ('127.0.0.1', 58109) has disconnected
+New connection at ID 14 ('127.0.0.1', 58125)
+ID 14: ControlledFolderAccessProtectedF
+ID 14: olders        : 
+ID 14: ControlledFolderAccessAllowedApp
+ID 14: lications     : {N/A: Must be an
+ID 14: d administrator to view exclusio
+ID 14: ns
+Client ('127.0.0.1', 58125) has disconnected
+New connection at ID 15 ('127.0.0.1', 58136)
+ID 15: ControlledFolderAccessProtectedF
+ID 15: olders        : 
+ID 15: ControlledFolderAccessAllowedApp
+ID 15: lications     : {N/A: Must be an
+ID 15: d administrator to view exclusio
+ID 15: ns
+ID 15: AllowNetworkProtectionDownLevel 
+ID 15:               : True
+ID 15: AllowNetworkProtectionOnWinServe
+ID 15: r             : True
+ID 15: DisableCpuThrottleOnIdleScans   
+ID 15:               : FalseEnableDnsSi
+ID 15: nkhole                          
+ID 15:    : True
+ID 15: EnableFileHashComputation       
+ID 15:               : False
+ID 15: AllowNetworkProtectionDownLevel 
+ID 15:               : TrueAllowNetwork
+ID 15: ProtectionOnWinServer           
+ID 15:   : True
+Client ('127.0.0.1', 58136) has disconnected
+New connection at ID 16 ('127.0.0.1', 58159)
+ID 16: ControlledFolderAccessProtectedF
+ID 16: olders        : 
+ID 16: ControlledFolderAccessAllowedApp
+ID 16: lications     : {N/A: Must be an
+ID 16: d administrator to view exclusio
+ID 16: ns
+ID 16: AllowNetworkProtectionDownLevel 
+ID 16:               : TrueAllowNetwork
+ID 16: ProtectionOnWinServer           
+ID 16:   : True
+ID 16: DisableCpuThrottleOnIdleScans   
+ID 16:               : FalseEnableDnsSi
+ID 16: nkhole                          
+ID 16:    : True
+ID 16: EnableFileHashComputation       
+ID 16:               : False
+ID 16: AllowNetworkProtectionDownLevel 
+ID 16:               : TrueAllowNetwork
+ID 16: ProtectionOnWinServer           
+ID 16:   : True
+ID 16: DisableCpuThrottleOnIdleScans   
+ID 16:               : FalseEnableDnsSi
+ID 16: nkhole                          
+ID 16:    : True
+ID 16: EnableFileHashComputation       
+ID 16:               : False
+ID 16: AllowNetworkProtectionDownLevel 
+ID 16:               : TrueAllowNetwork
+ID 16: ProtectionOnWinServer           
+ID 16:   : True
+ID 16: DisableCpuThrottleOnIdleScans   
+ID 16:               : FalseEnableDnsSi
+ID 16: nkhole                          
+ID 16:    : True
+ID 16: EnableFileHashComputation       
+ID 16:               : False
+ID 16: AllowNetworkProtectionDownLevel 
+ID 16:               : True
+ID 16: AllowNetworkProtectionOnWinServe
+ID 16: r             : True
+ID 16: DisableCpuThrottleOnIdleScans   
+ID 16:               : FalseEnableDnsSi
+ID 16: nkhole                          
+ID 16:    : True
+ID 16: EnableFileHashComputation       
+ID 16:               : False
+Client ('127.0.0.1', 58159) has disconnected
+New connection at ID 17 ('127.0.0.1', 58174)
+ID 17: ControlledFolderAccessProtectedF
+ID 17: olders        : 
+ID 17: ControlledFolderAccessAllowedApp
+ID 17: lications     : {N/A: Must be an
+ID 17: d administrator to view exclusio
+ID 17: ns
+ID 17: AllowNetworkProtectionDownLevel 
+ID 17:               : True
+ID 17: AllowNetworkProtectionOnWinServe
+ID 17: r             : TrueDisableCpuTh
+ID 17: rottleOnIdleScans               
+ID 17:   : FalseEnableDnsSinkhole      
+ID 17:                        : TrueEna
+ID 17: bleFileHashComputation          
+ID 17:            : False
+ID 17: AllowNetworkProtectionDownLevel 
+ID 17:               : TrueAllowNetwork
+ID 17: ProtectionOnWinServer           
+ID 17:   : TrueDisableCpuThrottleOnIdle
+ID 17: Scans                 : FalseEna
+ID 17: bleDnsSinkhole                  
+ID 17:            : TrueEnableFileHashC
+ID 17: omputation                     :
+ID 17:  False
+ID 17: AllowNetworkProtectionDownLevel 
+ID 17:               : TrueAllowNetwork
+ID 17: ProtectionOnWinServer           
+ID 17:   : TrueDisableCpuThrottleOnIdle
+ID 17: Scans                 : FalseEna
+ID 17: bleDnsSinkhole                  
+ID 17:            : TrueEnableFileHashC
+ID 17: omputation                     :
+ID 17:  False
+ID 17: AllowNetworkProtectionDownLevel 
+ID 17:               : TrueAllowNetwork
+ID 17: ProtectionOnWinServer           
+ID 17:   : TrueDisableCpuThrottleOnIdle
+ID 17: Scans                 : FalseEna
+ID 17: bleDnsSinkhole                  
+ID 17:            : TrueEnableFileHashC
+ID 17: omputation                     :
+ID 17:  False
+ID 17: AllowNetworkProtectionDownLevel 
+ID 17:               : TrueAllowNetwork
+ID 17: ProtectionOnWinServer           
+ID 17:   : TrueDisableCpuThrottleOnIdle
+ID 17: Scans                 : FalseEna
+ID 17: bleDnsSinkhole                  
+ID 17:            : TrueEnableFileHashC
+ID 17: omputation                     :
+ID 17:  False
+ID 17: AllowNetworkProtectionDownLevel 
+ID 17:               : True
+ID 17: AllowNetworkProtectionOnWinServe
+ID 17: r             : TrueDisableCpuTh
+ID 17: rottleOnIdleScans               
+ID 17:   : FalseEnableDnsSinkhole      
+ID 17:                        : TrueEna
+ID 17: bleFileHashComputation          
+ID 17:            : False
+ID 17: AllowNetworkProtectionDownLevel 
+ID 17:               : TrueAllowNetwork
+ID 17: ProtectionOnWinServer           
+ID 17:   : TrueDisableCpuThrottleOnIdle
+ID 17: Scans                 : FalseEna
+ID 17: bleDnsSinkhole                  
+ID 17:            : TrueEnableFileHashC
+ID 17: omputation                     :
+ID 17:  False
+ID 17: AllowNetworkProtectionDownLevel 
+ID 17:               : TrueAllowNetwork
+ID 17: ProtectionOnWinServer           
+ID 17:   : TrueDisableCpuThrottleOnIdle
+ID 17: Scans                 : FalseEna
+ID 17: bleDnsSinkhole                  
+ID 17:            : TrueEnableFileHashC
+ID 17: omputation                     :
+ID 17:  False
+ID 17: AllowNetworkProtectionDownLevel 
+ID 17:               : TrueAllowNetwork
+ID 17: ProtectionOnWinServer           
+ID 17:   : TrueDisableCpuThrottleOnIdle
+ID 17: Scans                 : FalseEna
+ID 17: bleDnsSinkhole                  
+ID 17:            : TrueEnableFileHashC
+ID 17: omputation                     :
+ID 17:  False
+ID 17: AllowNetworkProtectionDownLevel 
+ID 17:               : TrueAllowNetwork
+ID 17: ProtectionOnWinServer           
+ID 17:   : TrueDisableCpuThrottleOnIdle
+ID 17: Scans                 : FalseEna
+ID 17: bleDnsSinkhole                  
+ID 17:            : TrueEnableFileHashC
+ID 17: omputation                     :
+ID 17:  False
+ID 17: AllowNetworkProtectionDownLevel 
+ID 17:               : TrueAllowNetwork
+ID 17: ProtectionOnWinServer           
+ID 17:   : TrueDisableCpuThrottleOnIdle
+ID 17: Scans                 : FalseEna
+ID 17: bleDnsSinkhole                  
+ID 17:            : TrueEnableFileHashC
+ID 17: omputation                     :
+ID 17:  False
+ID 17: AllowNetworkProtectionDownLevel 
+ID 17:               : TrueAllowNetwork
+ID 17: ProtectionOnWinServer           
+ID 17:   : TrueDisableCpuThrottleOnIdle
+ID 17: Scans                 : FalseEna
+ID 17: bleDnsSinkhole                  
+ID 17:            : TrueEnableFileHashC
+ID 17: omputation                     :
+ID 17:  False
+ID 17: AllowNetworkProtectionDownLevel 
+ID 17:               : TrueAllowNetwork
+ID 17: ProtectionOnWinServer           
+ID 17:   : TrueDisableCpuThrottleOnIdle
+ID 17: Scans                 : FalseEna
+ID 17: bleDnsSinkhole                  
+ID 17:            : TrueEnableFileHashC
+ID 17: omputation                     :
+ID 17:  False
+ID 17: AllowNetworkProtectionDownLevel 
+ID 17:               : TrueAllowNetwork
+ID 17: ProtectionOnWinServer           
+ID 17:   : TrueDisableCpuThrottleOnIdle
+ID 17: Scans                 : FalseEna
+ID 17: bleDnsSinkhole                  
+ID 17:            : TrueEnableFileHashC
+ID 17: omputation                     :
+ID 17:  False
+ID 17: AllowNetworkProtectionDownLevel 
+ID 17:               : TrueAllowNetwork
+ID 17: ProtectionOnWinServer           
+ID 17:   : TrueDisableCpuThrottleOnIdle
+ID 17: Scans                 : FalseEna
+ID 17: bleDnsSinkhole                  
+ID 17:            : TrueEnableFileHashC
+ID 17: omputation                     :
+ID 17:  False
+ID 17: AllowNetworkProtectionDownLevel 
+ID 17:               : TrueAllowNetwork
+ID 17: ProtectionOnWinServer           
+ID 17:   : TrueDisableCpuThrottleOnIdle
+ID 17: Scans                 : FalseEna
+ID 17: bleDnsSinkhole                  
+ID 17:            : TrueEnableFileHashC
+ID 17: omputation                     :
+ID 17:  False
+ID 17: AllowNetworkProtectionDownLevel 
+ID 17:               : TrueAllowNetwork
+ID 17: ProtectionOnWinServer           
+ID 17:   : TrueDisableCpuThrottleOnIdle
+ID 17: Scans                 : FalseEna
+ID 17: bleDnsSinkhole                  
+ID 17:            : TrueEnableFileHashC
+ID 17: omputation                     :
+ID 17:  False
+ID 17: AllowNetworkProtectionDownLevel 
+ID 17:               : TrueAllowNetwork
+ID 17: ProtectionOnWinServer           
+ID 17:   : TrueDisableCpuThrottleOnIdle
+ID 17: Scans                 : FalseEna
+ID 17: bleDnsSinkhole                  
+ID 17:            : TrueEnableFileHashC
+ID 17: omputation                     :
+ID 17:  False
+ID 17: AllowNetworkProtectionDownLevel 
+ID 17:               : True
+ID 17: AllowNetworkProtectionOnWinServe
+ID 17: r             : TrueDisableCpuTh
+ID 17: rottleOnIdleScans               
+ID 17:   : FalseEnableDnsSinkhole      
+ID 17:                        : TrueEna
+ID 17: bleFileHashComputation          
+ID 17:            : False
+ID 17: AllowNetworkProtectionDownLevel 
+ID 17:               : TrueAllowNetwork
+ID 17: ProtectionOnWinServer           
+ID 17:   : TrueDisableCpuThrottleOnIdle
+ID 17: Scans                 : FalseEna
+ID 17: bleDnsSinkhole                  
+ID 17:            : TrueEnableFileHashC
+ID 17: omputation                     :
+ID 17:  False
+ID 17: AllowNetworkProtectionDownLevel 
+ID 17:               : TrueAllowNetwork
+ID 17: ProtectionOnWinServer           
+ID 17:   : TrueDisableCpuThrottleOnIdle
+ID 17: Scans                 : FalseEna
+ID 17: bleDnsSinkhole                  
+ID 17:            : TrueEnableFileHashC
+ID 17: omputation                     :
+ID 17:  False
+ID 17: AllowNetworkProtectionDownLevel 
+ID 17:               : TrueAllowNetwork
+ID 17: ProtectionOnWinServer           
+ID 17:   : TrueDisableCpuThrottleOnIdle
+ID 17: Scans                 : FalseEna
+ID 17: bleDnsSinkhole                  
+ID 17:            : TrueEnableFileHashC
+ID 17: omputation                     :
+ID 17:  False
+ID 17: AllowNetworkProtectionDownLevel 
+ID 17:               : TrueAllowNetwork
+ID 17: ProtectionOnWinServer           
+ID 17:   : TrueDisableCpuThrottleOnIdle
+ID 17: Scans                 : FalseEna
+ID 17: bleDnsSinkhole                  
+ID 17:            : TrueEnableFileHashC
+ID 17: omputation                     :
+ID 17:  False
+ID 17: AllowNetworkProtectionDownLevel 
+ID 17:               : TrueAllowNetwork
+ID 17: ProtectionOnWinServer           
+ID 17:   : TrueDisableCpuThrottleOnIdle
+ID 17: Scans                 : FalseEna
+ID 17: bleDnsSinkhole                  
+ID 17:            : TrueEnableFileHashC
+ID 17: omputation                     :
+ID 17:  False
+ID 17: AllowNetworkProtectionDownLevel 
+ID 17:               : TrueAllowNetwork
+ID 17: ProtectionOnWinServer           
+ID 17:   : TrueDisableCpuThrottleOnIdle
+ID 17: Scans                 : FalseEna
+ID 17: bleDnsSinkhole                  
+ID 17:            : TrueEnableFileHashC
+ID 17: omputation                     :
+ID 17:  False
+ID 17: AllowNetworkProtectionDownLevel 
+ID 17:               : TrueAllowNetwork
+ID 17: ProtectionOnWinServer           
+ID 17:   : TrueDisableCpuThrottleOnIdle
+ID 17: Scans                 : FalseEna
+ID 17: bleDnsSinkhole                  
+ID 17:            : TrueEnableFileHashC
+ID 17: omputation                     :
+ID 17:  False
+Client ('127.0.0.1', 58174) has disconnected
+New connection at ID 18 ('127.0.0.1', 58222)
+ID 18: ControlledFolderAccessProtectedF
+ID 18: olders        : 
+ID 18: ControlledFolderAccessAllowedApp
+ID 18: lications     : {N/A: Must be an
+ID 18: d administrator to view exclusio
+ID 18: ns
+Client ('127.0.0.1', 58222) has disconnected
+New connection at ID 19 ('127.0.0.1', 58263)
+ID 19: ControlledFolderAccessProtectedF
+ID 19: olders        : 
+ID 19: ControlledFolderAccessAllowedApp
+ID 19: lications     : {N/A: Must be an
+ID 19: d administrator to view exclusio
+ID 19: ns
+ID 19: AllowNetworkProtectionDownLevel 
+ID 19:               : TrueAllowNetwork
+ID 19: ProtectionOnWinServer           
+ID 19:   : True
+ID 19: DisableCpuThrottleOnIdleScans   
+ID 19:               : FalseEnableDnsSi
+ID 19: nkhole                          
+ID 19:    : True
+ID 19: EnableFileHashComputation       
+ID 19:               : False
+ID 19: AllowNetworkProtectionDownLevel 
+ID 19:               : TrueAllowNetwork
+ID 19: ProtectionOnWinServer           
+ID 19:   : TrueDisableCpuThrottleOnIdle
+ID 19: Scans                 : FalseEna
+ID 19: bleDnsSinkhole                  
+ID 19:            : TrueEnableFileHashC
+ID 19: omputation                     :
+ID 19:  False
+ID 19: AllowNetworkProtectionDownLevel 
+ID 19:               : TrueAllowNetwork
+ID 19: ProtectionOnWinServer           
+ID 19:   : TrueDisableCpuThrottleOnIdle
+ID 19: Scans                 : FalseEna
+ID 19: bleDnsSinkhole                  
+ID 19:            : TrueEnableFileHashC
+ID 19: omputation                     :
+ID 19:  False
+ID 19: AllowNetworkProtectionDownLevel 
+ID 19:               : True
+ID 19: AllowNetworkProtectionOnWinServe
+ID 19: r             : TrueDisableCpuTh
+ID 19: rottleOnIdleScans               
+ID 19:   : FalseEnableDnsSinkhole      
+ID 19:                        : TrueEna
+ID 19: bleFileHashComputation          
+ID 19:            : False
+ID 19: AllowNetworkProtectionDownLevel 
+ID 19:               : TrueAllowNetwork
+ID 19: ProtectionOnWinServer           
+ID 19:   : TrueDisableCpuThrottleOnIdle
+ID 19: Scans                 : FalseEna
+ID 19: bleDnsSinkhole                  
+ID 19:            : TrueEnableFileHashC
+ID 19: omputation                     :
+ID 19:  False
+ID 19: AllowNetworkProtectionDownLevel 
+ID 19:               : TrueAllowNetwork
+ID 19: ProtectionOnWinServer           
+ID 19:   : TrueDisableCpuThrottleOnIdle
+ID 19: Scans                 : FalseEna
+ID 19: bleDnsSinkhole                  
+ID 19:            : TrueEnableFileHashC
+ID 19: omputation                     :
+ID 19:  False
+ID 19: AllowNetworkProtectionDownLevel 
+ID 19:               : TrueAllowNetwork
+ID 19: ProtectionOnWinServer           
+ID 19:   : TrueDisableCpuThrottleOnIdle
+ID 19: Scans                 : FalseEna
+ID 19: bleDnsSinkhole                  
+ID 19:            : TrueEnableFileHashC
+ID 19: omputation                     :
+ID 19:  False
+ID 19: AllowNetworkProtectionDownLevel 
+ID 19:               : TrueAllowNetwork
+ID 19: ProtectionOnWinServer           
+ID 19:   : TrueDisableCpuThrottleOnIdle
+ID 19: Scans                 : FalseEna
+ID 19: bleDnsSinkhole                  
+ID 19:            : TrueEnableFileHashC
+ID 19: omputation                     :
+ID 19:  False
+ID 19: AllowNetworkProtectionDownLevel 
+ID 19:               : TrueAllowNetwork
+ID 19: ProtectionOnWinServer           
+ID 19:   : TrueDisableCpuThrottleOnIdle
+ID 19: Scans                 : FalseEna
+ID 19: bleDnsSinkhole                  
+ID 19:            : TrueEnableFileHashC
+ID 19: omputation                     :
+ID 19:  False
+ID 19: AllowNetworkProtectionDownLevel 
+ID 19:               : True
+ID 19: AllowNetworkProtectionOnWinServe
+ID 19: r             : TrueDisableCpuTh
+ID 19: rottleOnIdleScans               
+ID 19:   : FalseEnableDnsSinkhole      
+ID 19:                        : TrueEna
+ID 19: bleFileHashComputation          
+ID 19:            : False
+ID 19: AllowNetworkProtectionDownLevel 
+ID 19:               : TrueAllowNetwork
+ID 19: ProtectionOnWinServer           
+ID 19:   : TrueDisableCpuThrottleOnIdle
+ID 19: Scans                 : FalseEna
+ID 19: bleDnsSinkhole                  
+ID 19:            : TrueEnableFileHashC
+ID 19: omputation                     :
+ID 19:  False
+ID 19: AllowNetworkProtectionDownLevel 
+ID 19:               : TrueAllowNetwork
+ID 19: ProtectionOnWinServer           
+ID 19:   : TrueDisableCpuThrottleOnIdle
+ID 19: Scans                 : FalseEna
+ID 19: bleDnsSinkhole                  
+ID 19:            : TrueEnableFileHashC
+ID 19: omputation                     :
+ID 19:  False
+ID 19: AllowNetworkProtectionDownLevel 
+ID 19:               : TrueAllowNetwork
+ID 19: ProtectionOnWinServer           
+ID 19:   : TrueDisableCpuThrottleOnIdle
+ID 19: Scans                 : FalseEna
+ID 19: bleDnsSinkhole                  
+ID 19:            : TrueEnableFileHashC
+ID 19: omputation                     :
+ID 19:  False
+ID 19: AllowNetworkProtectionDownLevel 
+ID 19:               : TrueAllowNetwork
+ID 19: ProtectionOnWinServer           
+ID 19:   : TrueDisableCpuThrottleOnIdle
+ID 19: Scans                 : FalseEna
+ID 19: bleDnsSinkhole                  
+ID 19:            : TrueEnableFileHashC
+ID 19: omputation                     :
+ID 19:  False
+ID 19: AllowNetworkProtectionDownLevel 
+ID 19:               : TrueAllowNetwork
+ID 19: ProtectionOnWinServer           
+ID 19:   : TrueDisableCpuThrottleOnIdle
+ID 19: Scans                 : FalseEna
+ID 19: bleDnsSinkhole                  
+ID 19:            : TrueEnableFileHashC
+ID 19: omputation                     :
+ID 19:  False
+Client ('127.0.0.1', 58263) has disconnected
+New connection at ID 20 ('127.0.0.1', 58280)
+ID 20: ControlledFolderAccessProtectedF
+ID 20: olders        : 
+ID 20: ControlledFolderAccessAllowedApp
+ID 20: lications     : {N/A: Must be an
+ID 20: d administrator to view exclusio
+ID 20: ns
+ID 20: AllowNetworkProtectionDownLevel 
+ID 20:               : TrueAllowNetwork
+ID 20: ProtectionOnWinServer           
+ID 20:   : True
+ID 20: DisableCpuThrottleOnIdleScans   
+ID 20:               : FalseEnableDnsSi
+ID 20: nkhole                          
+ID 20:    : True
+ID 20: EnableFileHashComputation       
+ID 20:               : False
+ID 20: AllowNetworkProtectionDownLevel 
+ID 20:               : TrueAllowNetwork
+ID 20: ProtectionOnWinServer           
+ID 20:   : TrueDisableCpuThrottleOnIdle
+ID 20: Scans                 : FalseEna
+ID 20: bleDnsSinkhole                  
+ID 20:            : TrueEnableFileHashC
+ID 20: omputation                     :
+ID 20:  False
+ID 20: AllowNetworkProtectionDownLevel 
+ID 20:               : TrueAllowNetwork
+ID 20: ProtectionOnWinServer           
+ID 20:   : TrueDisableCpuThrottleOnIdle
+ID 20: Scans                 : FalseEna
+ID 20: bleDnsSinkhole                  
+ID 20:            : TrueEnableFileHashC
+ID 20: omputation                     :
+ID 20:  False
+ID 20: AllowNetworkProtectionDownLevel 
+ID 20:               : TrueAllowNetwork
+ID 20: ProtectionOnWinServer           
+ID 20:   : TrueDisableCpuThrottleOnIdle
+ID 20: Scans                 : FalseEna
+ID 20: bleDnsSinkhole                  
+ID 20:            : TrueEnableFileHashC
+ID 20: omputation                     :
+ID 20:  False
+ID 20: AllowNetworkProtectionDownLevel 
+ID 20:               : TrueAllowNetwork
+ID 20: ProtectionOnWinServer           
+ID 20:   : TrueDisableCpuThrottleOnIdle
+ID 20: Scans                 : FalseEna
+ID 20: bleDnsSinkhole                  
+ID 20:            : TrueEnableFileHashC
+ID 20: omputation                     :
+ID 20:  False
+Client ('127.0.0.1', 58280) has disconnected
+New connection at ID 21 ('127.0.0.1', 58311)
+ID 21: ControlledFolderAccessProtectedF
+ID 21: olders        : 
+ID 21: ControlledFolderAccessAllowedApp
+ID 21: lications     : {N/A: Must be an
+ID 21: d administrator to view exclusio
+ID 21: ns
+ID 21: AllowNetworkProtectionDownLevel 
+ID 21:               : TrueAllowNetwork
+ID 21: ProtectionOnWinServer           
+ID 21:   : True
+ID 21: DisableCpuThrottleOnIdleScans   
+ID 21:               : FalseEnableDnsSi
+ID 21: nkhole                          
+ID 21:    : True
+ID 21: EnableFileHashComputation       
+ID 21:               : False
+ID 21: AllowNetworkProtectionDownLevel 
+ID 21:               : TrueAllowNetwork
+ID 21: ProtectionOnWinServer           
+ID 21:   : TrueDisableCpuThrottleOnIdle
+ID 21: Scans                 : FalseEna
+ID 21: bleDnsSinkhole                  
+ID 21:            : TrueEnableFileHashC
+ID 21: omputation                     :
+ID 21:  False
+ID 21: AllowNetworkProtectionDownLevel 
+ID 21:               : TrueAllowNetwork
+ID 21: ProtectionOnWinServer           
+ID 21:   : TrueDisableCpuThrottleOnIdle
+ID 21: Scans                 : FalseEna
+ID 21: bleDnsSinkhole                  
+ID 21:            : TrueEnableFileHashC
+ID 21: omputation                     :
+ID 21:  False
+ID 21: AllowNetworkProtectionDownLevel 
+ID 21:               : TrueAllowNetwork
+ID 21: ProtectionOnWinServer           
+ID 21:   : TrueDisableCpuThrottleOnIdle
+ID 21: Scans                 : FalseEna
+ID 21: bleDnsSinkhole                  
+ID 21:            : TrueEnableFileHashC
+ID 21: omputation                     :
+ID 21:  False
+ID 21: AllowNetworkProtectionDownLevel 
+ID 21:               : TrueAllowNetwork
+ID 21: ProtectionOnWinServer           
+ID 21:   : TrueDisableCpuThrottleOnIdle
+ID 21: Scans                 : FalseEna
+ID 21: bleDnsSinkhole                  
+ID 21:            : TrueEnableFileHashC
+ID 21: omputation                     :
+ID 21:  False
+ID 21: AllowNetworkProtectionDownLevel 
+ID 21:               : TrueAllowNetwork
+ID 21: ProtectionOnWinServer           
+ID 21:   : TrueDisableCpuThrottleOnIdle
+ID 21: Scans                 : FalseEna
+ID 21: bleDnsSinkhole                  
+ID 21:            : TrueEnableFileHashC
+ID 21: omputation                     :
+ID 21:  False
+Client ('127.0.0.1', 58311) has disconnected
+New connection at ID 22 ('127.0.0.1', 58320)
+ID 22: ControlledFolderAccessProtectedF
+ID 22: olders        : 
+ID 22: ControlledFolderAccessAllowedApp
+ID 22: lications     : {N/A: Must be an
+ID 22: d administrator to view exclusio
+ID 22: ns
+ID 22: AllowNetworkProtectionDownLevel 
+ID 22:               : TrueAllowNetwork
+ID 22: ProtectionOnWinServer           
+ID 22:   : True
+ID 22: DisableCpuThrottleOnIdleScans   
+ID 22:               : FalseEnableDnsSi
+ID 22: nkhole                          
+ID 22:    : True
+ID 22: EnableFileHashComputation       
+ID 22:               : False
+ID 22: AllowNetworkProtectionDownLevel 
+ID 22:               : TrueAllowNetwork
+ID 22: ProtectionOnWinServer           
+ID 22:   : TrueDisableCpuThrottleOnIdle
+ID 22: Scans                 : FalseEna
+ID 22: bleDnsSinkhole                  
+ID 22:            : TrueEnableFileHashC
+ID 22: omputation                     :
+ID 22:  False
+ID 22: AllowNetworkProtectionDownLevel 
+ID 22:               : TrueAllowNetwork
+ID 22: ProtectionOnWinServer           
+ID 22:   : TrueDisableCpuThrottleOnIdle
+ID 22: Scans                 : FalseEna
+ID 22: bleDnsSinkhole                  
+ID 22:            : TrueEnableFileHashC
+ID 22: omputation                     :
+ID 22:  False
+ID 22: AllowNetworkProtectionDownLevel 
+ID 22:               : TrueAllowNetwork
+ID 22: ProtectionOnWinServer           
+ID 22:   : TrueDisableCpuThrottleOnIdle
+ID 22: Scans                 : FalseEna
+ID 22: bleDnsSinkhole                  
+ID 22:            : TrueEnableFileHashC
+ID 22: omputation                     :
+ID 22:  False
+ID 22: AllowNetworkProtectionDownLevel 
+ID 22:               : TrueAllowNetwork
+ID 22: ProtectionOnWinServer           
+ID 22:   : TrueDisableCpuThrottleOnIdle
+ID 22: Scans                 : FalseEna
+ID 22: bleDnsSinkhole                  
+ID 22:            : TrueEnableFileHashC
+ID 22: omputation                     :
+ID 22:  False
+ID 22: AllowNetworkProtectionDownLevel 
+ID 22:               : TrueAllowNetwork
+ID 22: ProtectionOnWinServer           
+ID 22:   : TrueDisableCpuThrottleOnIdle
+ID 22: Scans                 : FalseEna
+ID 22: bleDnsSinkhole                  
+ID 22:            : TrueEnableFileHashC
+ID 22: omputation                     :
+ID 22:  False
+ID 22: AllowNetworkProtectionDownLevel 
+ID 22:               : TrueAllowNetwork
+ID 22: ProtectionOnWinServer           
+ID 22:   : TrueDisableCpuThrottleOnIdle
+ID 22: Scans                 : FalseEna
+ID 22: bleDnsSinkhole                  
+ID 22:            : TrueEnableFileHashC
+ID 22: omputation                     :
+ID 22:  False
+ID 22: AllowNetworkProtectionDownLevel 
+ID 22:               : TrueAllowNetwork
+ID 22: ProtectionOnWinServer           
+ID 22:   : TrueDisableCpuThrottleOnIdle
+ID 22: Scans                 : FalseEna
+ID 22: bleDnsSinkhole                  
+ID 22:            : TrueEnableFileHashC
+ID 22: omputation                     :
+ID 22:  False
+ID 22: AllowNetworkProtectionDownLevel 
+ID 22:               : TrueAllowNetwork
+ID 22: ProtectionOnWinServer           
+ID 22:   : TrueDisableCpuThrottleOnIdle
+ID 22: Scans                 : FalseEna
+ID 22: bleDnsSinkhole                  
+ID 22:            : TrueEnableFileHashC
+ID 22: omputation                     :
+ID 22:  False
+ID 22: AllowNetworkProtectionDownLevel 
+ID 22:               : TrueAllowNetwork
+ID 22: ProtectionOnWinServer           
+ID 22:   : TrueDisableCpuThrottleOnIdle
+ID 22: Scans                 : FalseEna
+ID 22: bleDnsSinkhole                  
+ID 22:            : TrueEnableFileHashC
+ID 22: omputation                     :
+ID 22:  False
+ID 22: AllowNetworkProtectionDownLevel 
+ID 22:               : TrueAllowNetwork
+ID 22: ProtectionOnWinServer           
+ID 22:   : TrueDisableCpuThrottleOnIdle
+ID 22: Scans                 : FalseEna
+ID 22: bleDnsSinkhole                  
+ID 22:            : TrueEnableFileHashC
+ID 22: omputation                     :
+ID 22:  False
+New connection at ID 23 ('127.0.0.1', 58333)
+ID 22: AllowNetworkProtectionDownLevel 
+ID 22:               : TrueAllowNetwork
+ID 22: ProtectionOnWinServer           
+ID 22:   : TrueDisableCpuThrottleOnIdle
+ID 22: Scans                 : FalseEna
+ID 22: bleDnsSinkhole                  
+ID 22:            : TrueEnableFileHashC
+ID 22: omputation                     :
+ID 22:  False
+ID 23: ControlledFolderAccessProtectedF
+ID 23: olders        : 
+ID 22: AllowNetworkProtectionDownLevel 
+ID 22:               : TrueAllowNetwork
+ID 22: ProtectionOnWinServer           
+ID 22:   : TrueDisableCpuThrottleOnIdle
+ID 22: Scans                 : FalseEna
+ID 22: bleDnsSinkhole                  
+ID 22:            : TrueEnableFileHashC
+ID 22: omputation                     :
+ID 22:  False
+ID 23: ControlledFolderAccessAllowedApp
+ID 23: lications     : {N/A: Must be an
+ID 23: d administrator to view exclusio
+ID 23: ns
+ID 22: AllowNetworkProtectionDownLevel 
+ID 22:               : TrueAllowNetwork
+ID 22: ProtectionOnWinServer           
+ID 22:   : TrueDisableCpuThrottleOnIdle
+ID 22: Scans                 : FalseEna
+ID 22: bleDnsSinkhole                  
+ID 22:            : TrueEnableFileHashC
+ID 22: omputation                     :
+ID 22:  False
+ID 22: AllowNetworkProtectionDownLevel 
+ID 22:               : TrueAllowNetwork
+ID 22: ProtectionOnWinServer           
+ID 22:   : TrueDisableCpuThrottleOnIdle
+ID 22: Scans                 : FalseEna
+ID 22: bleDnsSinkhole                  
+ID 22:            : TrueEnableFileHashC
+ID 22: omputation                     :
+ID 22:  False
+ID 23: AllowNetworkProtectionDownLevel 
+ID 23:               : TrueAllowNetwork
+ID 23: ProtectionOnWinServer           
+ID 23:   : True
+ID 22: AllowNetworkProtectionDownLevel 
+ID 22:               : TrueAllowNetwork
+ID 22: ProtectionOnWinServer           
+ID 22:   : TrueDisableCpuThrottleOnIdle
+ID 22: Scans                 : FalseEna
+ID 22: bleDnsSinkhole                  
+ID 22:            : TrueEnableFileHashC
+ID 22: omputation                     :
+ID 22:  False
+ID 23: DisableCpuThrottleOnIdleScans   
+ID 23:               : FalseEnableDnsSi
+ID 23: nkhole                          
+ID 23:    : True
+ID 22: AllowNetworkProtectionDownLevel 
+ID 22:               : TrueAllowNetwork
+ID 22: ProtectionOnWinServer           
+ID 22:   : TrueDisableCpuThrottleOnIdle
+ID 22: Scans                 : FalseEna
+ID 22: bleDnsSinkhole                  
+ID 22:            : TrueEnableFileHashC
+ID 22: omputation                     :
+ID 22:  False
+ID 23: EnableFileHashComputation       
+ID 23:               : False
+ID 22: AllowNetworkProtectionDownLevel 
+ID 22:               : TrueAllowNetwork
+ID 22: ProtectionOnWinServer           
+ID 22:   : TrueDisableCpuThrottleOnIdle
+ID 22: Scans                 : FalseEna
+ID 22: bleDnsSinkhole                  
+ID 22:            : TrueEnableFileHashC
+ID 22: omputation                     :
+ID 22:  False
+ID 23: AllowNetworkProtectionDownLevel 
+ID 23:               : TrueAllowNetwork
+ID 23: ProtectionOnWinServer           
+ID 23:   : TrueDisableCpuThrottleOnIdle
+ID 23: Scans                 : FalseEna
+ID 23: bleDnsSinkhole                  
+ID 23:            : TrueEnableFileHashC
+ID 23: omputation                     :
+ID 23:  False
+ID 22: AllowNetworkProtectionDownLevel 
+ID 22:               : TrueAllowNetwork
+ID 22: ProtectionOnWinServer           
+ID 22:   : TrueDisableCpuThrottleOnIdle
+ID 22: Scans                 : FalseEna
+ID 22: bleDnsSinkhole                  
+ID 22:            : TrueEnableFileHashC
+ID 22: omputation                     :
+ID 22:  False
+ID 23: AllowNetworkProtectionDownLevel 
+ID 23:               : TrueAllowNetwork
+ID 23: ProtectionOnWinServer           
+ID 23:   : TrueDisableCpuThrottleOnIdle
+ID 23: Scans                 : FalseEna
+ID 23: bleDnsSinkhole                  
+ID 23:            : TrueEnableFileHashC
+ID 23: omputation                     :
+ID 23:  False
+ID 22: AllowNetworkProtectionDownLevel 
+ID 22:               : TrueAllowNetwork
+ID 22: ProtectionOnWinServer           
+ID 22:   : TrueDisableCpuThrottleOnIdle
+ID 22: Scans                 : FalseEna
+ID 22: bleDnsSinkhole                  
+ID 22:            : TrueEnableFileHashC
+ID 22: omputation                     :
+ID 22:  False
+ID 23: AllowNetworkProtectionDownLevel 
+ID 23:               : TrueAllowNetwork
+ID 23: ProtectionOnWinServer           
+ID 23:   : TrueDisableCpuThrottleOnIdle
+ID 23: Scans                 : FalseEna
+ID 23: bleDnsSinkhole                  
+ID 23:            : TrueEnableFileHashC
+ID 23: omputation                     :
+ID 23:  False
+ID 22: AllowNetworkProtectionDownLevel 
+ID 22:               : TrueAllowNetwork
+ID 22: ProtectionOnWinServer           
+ID 22:   : TrueDisableCpuThrottleOnIdle
+ID 22: Scans                 : FalseEna
+ID 22: bleDnsSinkhole                  
+ID 22:            : TrueEnableFileHashC
+ID 22: omputation                     :
+ID 22:  False
+ID 23: AllowNetworkProtectionDownLevel 
+ID 23:               : TrueAllowNetwork
+ID 23: ProtectionOnWinServer           
+ID 23:   : TrueDisableCpuThrottleOnIdle
+ID 23: Scans                 : FalseEna
+ID 23: bleDnsSinkhole                  
+ID 23:            : TrueEnableFileHashC
+ID 23: omputation                     :
+ID 23:  False
+ID 22: AllowNetworkProtectionDownLevel 
+ID 22:               : TrueAllowNetwork
+ID 22: ProtectionOnWinServer           
+ID 22:   : TrueDisableCpuThrottleOnIdle
+ID 22: Scans                 : FalseEna
+ID 22: bleDnsSinkhole                  
+ID 22:            : TrueEnableFileHashC
+ID 22: omputation                     :
+ID 22:  False
+ID 23: AllowNetworkProtectionDownLevel 
+ID 23:               : TrueAllowNetwork
+ID 23: ProtectionOnWinServer           
+ID 23:   : TrueDisableCpuThrottleOnIdle
+ID 23: Scans                 : FalseEna
+ID 23: bleDnsSinkhole                  
+ID 23:            : TrueEnableFileHashC
+ID 23: omputation                     :
+ID 23:  False
+ID 22: AllowNetworkProtectionDownLevel 
+ID 22:               : TrueAllowNetwork
+ID 22: ProtectionOnWinServer           
+ID 22:   : TrueDisableCpuThrottleOnIdle
+ID 22: Scans                 : FalseEna
+ID 22: bleDnsSinkhole                  
+ID 22:            : TrueEnableFileHashC
+ID 22: omputation                     :
+ID 22:  False
+ID 23: AllowNetworkProtectionDownLevel 
+ID 23:               : TrueAllowNetwork
+ID 23: ProtectionOnWinServer           
+ID 23:   : TrueDisableCpuThrottleOnIdle
+ID 23: Scans                 : FalseEna
+ID 23: bleDnsSinkhole                  
+ID 23:            : TrueEnableFileHashC
+ID 23: omputation                     :
+ID 23:  False
+ID 22: AllowNetworkProtectionDownLevel 
+ID 22:               : TrueAllowNetwork
+ID 22: ProtectionOnWinServer           
+ID 22:   : TrueDisableCpuThrottleOnIdle
+ID 22: Scans                 : FalseEna
+ID 22: bleDnsSinkhole                  
+ID 22:            : TrueEnableFileHashC
+ID 22: omputation                     :
+ID 22:  False
+ID 23: AllowNetworkProtectionDownLevel 
+ID 23:               : TrueAllowNetwork
+ID 23: ProtectionOnWinServer           
+ID 23:   : TrueDisableCpuThrottleOnIdle
+ID 23: Scans                 : FalseEna
+ID 23: bleDnsSinkhole                  
+ID 23:            : TrueEnableFileHashC
+ID 23: omputation                     :
+ID 23:  False
+Client ('127.0.0.1', 58333) has disconnected
+Client ('127.0.0.1', 58320) has disconnected
+New connection at ID 24 ('127.0.0.1', 58358)
+ID 24: ControlledFolderAccessProtectedF
+ID 24: olders        : 
+ID 24: ControlledFolderAccessAllowedApp
+ID 24: lications     : {N/A: Must be an
+ID 24: d administrator to view exclusio
+ID 24: ns
+Client ('127.0.0.1', 58358) has disconnected
+New connection at ID 25 ('127.0.0.1', 58418)
+ID 25: ControlledFolderAccessProtectedF
+ID 25: olders        : 
+ID 25: ControlledFolderAccessAllowedApp
+ID 25: lications     : {N/A: Must be an
+ID 25: d administrator to view exclusio
+ID 25: ns
+New connection at ID 26 ('127.0.0.1', 58429)
+ID 26: ControlledFolderAccessProtectedF
+ID 26: olders        : 
+ID 26: ControlledFolderAccessAllowedApp
+ID 26: lications     : {N/A: Must be an
+ID 26: d administrator to view exclusio
+ID 26: ns
+Client ('127.0.0.1', 58418) has disconnected
+Client ('127.0.0.1', 58429) has disconnected
+New connection at ID 27 ('127.0.0.1', 58451)
+ID 27: ControlledFolderAccessProtectedF
+ID 27: olders        : 
+ID 27: ControlledFolderAccessAllowedApp
+ID 27: lications     : {N/A: Must be an
+ID 27: d administrator to view exclusio
+ID 27: ns
+New connection at ID 0 ('127.0.0.1', 60281)
+ID 0: ControlledFolderAccessProtectedF
+ID 0: olders        : {C:\\Users\\APY-
+ID 0: NOV-DEV1\\Desktop\\Work\\Projets
+ID 0: \\Balise GPS\\Codes
+ID 0: ControlledFolderAccessProtectedF
+ID 0: olders        : {C:\\Users\\APY-
+ID 0: NOV-DEV1\\Desktop\\Work\\Projets
+ID 0: \\Balise GPS\\Codes
+ID 0: ControlledFolderAccessProtectedF
+ID 0: olders        : {C:\\Users\\APY-
+ID 0: NOV-DEV1\\Desktop\\Work\\Projets
+ID 0: \\Balise GPS\\Codes
+ID 0: ControlledFolderAccessProtectedF
+ID 0: olders        : {C:\\Users\\APY-
+ID 0: NOV-DEV1\\Desktop\\Work\\Projets
+ID 0: \\Balise GPS\\Codes
+ID 0: ControlledFolderAccessProtectedF
+ID 0: olders        : {C:\\Users\\APY-
+ID 0: NOV-DEV1\\Desktop\\Work\\Projets
+ID 0: \\Balise GPS\\Codes
+ID 0: ControlledFolderAccessProtectedF
+ID 0: olders        : {C:\\Users\\APY-
+ID 0: NOV-DEV1\\Desktop\\Work\\Projets
+ID 0: \\Balise GPS\\Codes
+ID 0: ControlledFolderAccessProtectedF
+ID 0: olders        : {C:\\Users\\APY-
+ID 0: NOV-DEV1\\Desktop\\Work\\Projets
+ID 0: \\Balise GPS\\Codes
+ID 0: ControlledFolderAccessProtectedF
+ID 0: olders        : {C:\\Users\\APY-
+ID 0: NOV-DEV1\\Desktop\\Work\\Projets
+ID 0: \\Balise GPS\\Codes
+ID 0: ControlledFolderAccessProtectedF
+ID 0: olders        : {C:\\Users\\APY-
+ID 0: NOV-DEV1\\Desktop\\Work\\Projets
+ID 0: \\Balise GPS\\Codes
+ID 0: ControlledFolderAccessProtectedF
+ID 0: olders        : {C:\\Users\\APY-
+ID 0: NOV-DEV1\\Desktop\\Work\\Projets
+ID 0: \\Balise GPS\\Codes
+ID 0: ControlledFolderAccessProtectedF
+ID 0: olders        : {C:\\Users\\APY-
+ID 0: NOV-DEV1\\Desktop\\Work\\Projets
+ID 0: \\Balise GPS\\Codes
+ID 0: ControlledFolderAccessProtectedF
+ID 0: olders        : {C:\\Users\\APY-
+ID 0: NOV-DEV1\\Desktop\\Work\\Projets
+ID 0: \\Balise GPS\\Codes
+Client ('127.0.0.1', 60281) has disconnected
+New connection at ID 1 ('127.0.0.1', 60307)
+Client ('127.0.0.1', 60307) has disconnected
+New connection at ID 2 ('127.0.0.1', 60328)
+Client ('127.0.0.1', 60328) has disconnected
+New connection at ID 3 ('127.0.0.1', 60343)
+New connection at ID 0 ('127.0.0.1', 60389)
+ID 0: AttackSurfaceReductionOnlyExclus
+ID 0: ions          : {N/A: Must be an
+ID 0: d administrator to view exclusio
+ID 0: ns}
+ID 0: CloudBlockLevel                 
+ID 0:               : 1
+ID 0: ExclusionExtension              
+ID 0:               : {N/A: Must be an
+ID 0: d administrator to view exclusio
+ID 0: ns}
+ID 0: ExclusionIpAddress              
+ID 0:               : {N/A: Must be an
+ID 0: d administrator to view exclusio
+ID 0: ns}
+ID 0: ExclusionPath                   
+ID 0:               : {N/A: Must be an
+ID 0: d administrator to view exclusio
+ID 0: ns}
+ID 0: ExclusionProcess                
+ID 0:               : {N/A: Must be an
+ID 0: d administrator to view exclusio
+ID 0: ns}
+ID 0: AttackSurfaceReductionOnlyExclus
+ID 0: ions          : {N/A: Must be an
+ID 0: d administrator to view exclusio
+ID 0: ns}
+ID 0: CloudBlockLevel                 
+ID 0:               : 1
+ID 0: ExclusionExtension              
+ID 0:               : {N/A: Must be an
+ID 0: d administrator to view exclusio
+ID 0: ns}
+ID 0: ExclusionIpAddress              
+ID 0:               : {N/A: Must be an
+ID 0: d administrator to view exclusio
+ID 0: ns}
+Client ('127.0.0.1', 60389) has disconnected
+New connection at ID 1 ('127.0.0.1', 60400)
+ID 1: AttackSurfaceReductionOnlyExclus
+ID 1: ions          : {N/A: Must be an
+ID 1: d administrator to view exclusio
+ID 1: ns}
+ID 1: CloudBlockLevel                 
+ID 1:               : 1
+ID 1: ExclusionExtension              
+ID 1:               : {N/A: Must be an
+ID 1: d administrator to view exclusio
+ID 1: ns}
+ID 1: ExclusionIpAddress              
+ID 1:               : {N/A: Must be an
+ID 1: d administrator to view exclusio
+ID 1: ns}
+ID 1: ExclusionPath                   
+ID 1:               : {N/A: Must be an
+ID 1: d administrator to view exclusio
+ID 1: ns}
+ID 1: ExclusionProcess                
+ID 1:               : {N/A: Must be an
+ID 1: d administrator to view exclusio
+ID 1: ns}
+ID 1: AttackSurfaceReductionOnlyExclus
+ID 1: ions          : {N/A: Must be an
+ID 1: d administrator to view exclusio
+ID 1: ns}
+ID 1: CloudBlockLevel                 
+ID 1:               : 1
+ID 1: ExclusionExtension              
+ID 1:               : {N/A: Must be an
+ID 1: d administrator to view exclusio
+ID 1: ns}
+Client ('127.0.0.1', 60400) has disconnected
+New connection at ID 0 ('127.0.0.1', 60462)
+Client ('127.0.0.1', 60462) has disconnected
+New connection at ID 1 ('127.0.0.1', 60472)
+Client ('127.0.0.1', 60472) has disconnected
+New connection at ID 2 ('127.0.0.1', 60503)
+New connection at ID 3 ('127.0.0.1', 60540)
+Client ('127.0.0.1', 60503) has disconnected
+Client ('127.0.0.1', 60540) has disconnected
+New connection at ID 4 ('127.0.0.1', 60552)
+New connection at ID 5 ('127.0.0.1', 60561)
+Client ('127.0.0.1', 60552) has disconnected
+Client ('127.0.0.1', 60561) has disconnected
+New connection at ID 6 ('127.0.0.1', 60575)
+New connection at ID 7 ('127.0.0.1', 60584)
+Client ('127.0.0.1', 60575) has disconnected
+New connection at ID 8 ('127.0.0.1', 56532)
+ID 8: DisableRealtimeMonitoring       
+ID 8:               : False
+ID 8: RealTimeScanDirection           
+ID 8:               : 0
+Client ('127.0.0.1', 60584) has disconnected
+Client ('127.0.0.1', 56532) has disconnected
+New connection at ID 9 ('127.0.0.1', 56612)
+ID 9: DisableRealtimeMonitoring       
+ID 9:               : False
+ID 9: RealTimeScanDirection           
+ID 9:               : 0
+Client ('127.0.0.1', 56612) has disconnected
+New connection at ID 10 ('127.0.0.1', 56637)
+ID 10: DisableRealtimeMonitoring       
+ID 10:               : False
+ID 10: RealTimeScanDirection           
+ID 10:               : 0
+Client ('127.0.0.1', 56637) has disconnected
+New connection at ID 0 ('127.0.0.1', 56677)
+Client ('127.0.0.1', 56677) has disconnected
+New connection at ID 1 ('127.0.0.1', 56690)
+ID 1: DisableCpuThrottleOnIdleScans   
+ID 1:               : False
+ID 1: EnableFileHashComputation       
+ID 1:               : False
+ID 1: DisableRealtimeMonitoring       
+ID 1:               : False
+ID 1: RealTimeScanDirection           
+ID 1:               : 0

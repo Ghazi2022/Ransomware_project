@@ -1,0 +1,136 @@
+
+New connection at ID 0 ('127.0.0.1', 8302)
+ID 0: ControlledFolderAccessProtectedF
+ID 0: olders        : {C:\\Users\\sami
+ID 0: b\\Documents\\dumps, C:\\Users\\
+ID 0: samib\\Documents\\Sound 
+New connection at ID 1 ('127.0.0.1', 8952)
+Client ('127.0.0.1', 8952) has disconnected
+New connection at ID 2 ('127.0.0.1', 8994)
+ID 0: ControlledFolderAccessProtectedF
+ID 0: olders        : {C:\\Users\\sami
+ID 0: b\\Documents\\Sound recordings, 
+Client ('127.0.0.1', 8994) has disconnected
+Client ('127.0.0.1', 8302) has disconnected
+New connection at ID 0 ('127.0.0.1', 52642)
+New connection at ID 1 ('127.0.0.1', 52655)
+ID 1: ControlledFolderAccessProtectedF
+ID 1: olders        : {C:\\Users\\APY-
+ID 1: NOV-DEV1\\Desktop\\Work\\Perso, 
+ID 1: C:\\Users\\APY-NOV-DEV1\\Desktop
+ID 1: \\Work\\Projets\\Balise GPS\\Cod
+ID 1: es, 
+ID 1: ControlledFolderAccessProtectedF
+ID 1: olders        : {C:\\Users\\APY-
+ID 1: NOV-DEV1\\Desktop\\Work\\Perso, 
+ID 1: C:\\Users\\APY-NOV-DEV1\\Desktop
+ID 1: \\Work\\Projets\\Ransomeware\\1,
+ID 1:  
+ID 1: ControlledFolderAccessProtectedF
+ID 1: olders        : {C:\\Users\\APY-
+ID 1: NOV-DEV1\\Desktop\\Work\\Perso, 
+ID 1: C:\\Users\\APY-NOV-DEV1\\Desktop
+ID 1: \\Work\\Projets\\Balise GPS\\Ima
+ID 1: ges, 
+ID 1: ControlledFolderAccessProtectedF
+ID 1: olders        : {C:\\Users\\APY-
+ID 1: NOV-DEV1\\Desktop\\Work\\Projets
+ID 1: \\Ransomeware\\1, C:\\Users\\APY
+ID 1: -NOV-DEV1\\Downloads\\Arduino_Pr
+ID 1: oteus_Libraries}
+ID 1: ControlledFolderAccessProtectedF
+ID 1: olders        : {C:\\Users\\APY-
+ID 1: NOV-DEV1\\Desktop\\Work\\Projets
+ID 1: \\Balise GPS\\Docs, C:\\Users\\A
+ID 1: PY-NOV-DEV1\\Desktop\\Work\\Proj
+ID 1: ets\\Ransomeware\\1, 
+ID 1: ControlledFolderAccessProtectedF
+ID 1: olders        : {C:\\Users\\APY-
+ID 1: NOV-DEV1\\Desktop\\Work\\Projets
+ID 1: \\Ransomeware\\1, C:\\Users\\APY
+ID 1: -NOV-DEV1\\Downloads\\Arduino_Pr
+ID 1: oteus_Libraries}
+ID 1: ControlledFolderAccessProtectedF
+ID 1: olders        : {C:\\Users\\APY-
+ID 1: NOV-DEV1\\Desktop\\Work\\Projets
+ID 1: \\Ransomeware\\1}
+ID 1: ControlledFolderAccessProtectedF
+ID 1: olders        : 
+ID 1: ControlledFolderAccessProtectedF
+ID 1: olders        : {C:\\Users\\APY-
+ID 1: NOV-DEV1\\Desktop\\Work\\Projets
+ID 1: \\Balise GPS\\Docs}
+ID 1: ControlledFolderAccessProtectedF
+ID 1: olders        : 
+ID 1: ControlledFolderAccessProtectedF
+ID 1: olders        : {C:\\Users\\APY-
+ID 1: NOV-DEV1\\Desktop\\Work\\Projets
+ID 1: \\Balise GPS\\Docs}
+ID 1: ControlledFolderAccessProtectedF
+ID 1: olders        : {C:\\Users\\APY-
+ID 1: NOV-DEV1\\Desktop\\Work\\Projets
+ID 1: \\Balise GPS\\Docs, C:\\Users\\A
+ID 1: PY-NOV-DEV1\\Desktop\\Work\\Proj
+ID 1: ets\\Balise 
+ID 1: ControlledFolderAccessProtectedF
+ID 1: olders        : {C:\\Users\\APY-
+ID 1: NOV-DEV1\\Desktop\\Work\\Projets
+ID 1: \\Balise GPS\\Codes, C:\\Users\\
+ID 1: APY-NOV-DEV1\\Desktop\\Work\\Pro
+ID 1: jets\\Balise 
+ID 1: ControlledFolderAccessProtectedF
+ID 1: olders        : {C:\\Users\\APY-
+ID 1: NOV-DEV1\\Desktop\\Work\\Projets
+ID 1: \\Balise GPS\\Docs, C:\\Users\\A
+ID 1: PY-NOV-DEV1\\Desktop\\Work\\Proj
+ID 1: ets\\Balise 
+ID 1: ControlledFolderAccessProtectedF
+ID 1: olders        : {C:\\Users\\APY-
+ID 1: NOV-DEV1\\Desktop\\Work\\Projets
+ID 1: \\Balise GPS\\Proto}
+ID 1: ControlledFolderAccessProtectedF
+ID 1: olders        : {C:\\Users\\APY-
+ID 1: NOV-DEV1\\Desktop\\Work\\Projets
+ID 1: \\Agrodoo, C:\\Users\\APY-NOV-DE
+ID 1: V1\\Desktop\\Work\\Projets\\Bali
+ID 1: se GPS\\Proto}
+ID 1: ControlledFolderAccessProtectedF
+ID 1: olders        : {C:\\Users\\APY-
+ID 1: NOV-DEV1\\Desktop\\Work\\Projets
+ID 1: \\Agrodoo, C:\\Users\\APY-NOV-DE
+ID 1: V1\\Desktop\\Work\\Projets\\Bali
+ID 1: se GPS\\Proto, 
+ID 1: ControlledFolderAccessProtectedF
+ID 1: olders        : {C:\\Users\\APY-
+ID 1: NOV-DEV1\\Desktop\\Nouveau dossi
+ID 1: er, C:\\Users\\APY-NOV-DEV1\\Des
+ID 1: ktop\\Work\\Projets\\Agrodoo, 
+New connection at ID 0 ('127.0.0.1', 58446)
+New connection at ID 1 ('127.0.0.1', 58454)
+ID 1: ControlledFolderAccessProtectedF
+ID 1: olders        : 
+ID 1: ControlledFolderAccessProtectedF
+ID 1: olders        : {C:\\Users\\APY-
+ID 1: NOV-DEV1\\Desktop\\Work\\Projets
+ID 1: \\Balise GPS\\Proto}
+ID 1: ControlledFolderAccessProtectedF
+ID 1: olders        : 
+New connection at ID 0 ('127.0.0.1', 64764)
+New connection at ID 1 ('127.0.0.1', 64773)
+ID 1: ControlledFolderAccessProtectedF
+ID 1: olders        : 
+ID 1: ControlledFolderAccessProtectedF
+ID 1: olders        : {C:\\Users\\APY-
+ID 1: NOV-DEV1\\Desktop\\Work\\Projets
+ID 1: \\Agrodoo}
+ID 1: ControlledFolderAccessProtectedF
+ID 1: olders        : {C:\\Users\\APY-
+ID 1: NOV-DEV1\\Desktop\\Work\\Projets
+ID 1: \\Agrodoo, C:\\Users\\APY-NOV-DE
+ID 1: V1\\Desktop\\Work\\Projets\\Bali
+ID 1: se GPS\\Codes}
+ID 1: ControlledFolderAccessProtectedF
+ID 1: olders        : {C:\\Users\\APY-
+ID 1: NOV-DEV1\\Desktop\\Work\\Projets
+ID 1: \\Balise GPS\\Codes}
+New connection at ID 0 ('127.0.0.1', 64780)
